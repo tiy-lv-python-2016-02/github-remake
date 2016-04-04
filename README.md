@@ -1,21 +1,3 @@
-# github-api-profile
-
-## Objectives
-
-After completing this assignment, you should be able to:
-
-* Recreate a CSS page
-
-## Details
-
-### Deliverables
-
-* HTML and CSS files for recreating the github page
-
-### Requirements
-
-* Must implement all features described below
-
 ## Normal Mode
 
 Recreate the HTML and CSS for the Github tab page (https://github.com/matthiasak?tab=repositories) as your design.
